@@ -2,12 +2,12 @@
 ## NAME: LEKASRI G
 ## REGISTER NUMBER: 212223100025
 
-**Aim:**
+## Aim:
 
 To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive insights about matches per season, winning teams, toss decisions, and top venues.
 
 
-**Algorithm / Procedure:**
+## Algorithm / Procedure:
 
 **1.Import Libraries**
 
@@ -53,7 +53,7 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
   
   Identify teams with consistent winning trends.
   
-  **Program and Output**
+## Program and Output:
   ```
 # Step 1: Import necessary libraries
 import pandas as pd
@@ -133,6 +133,6 @@ plt.show()
 
 
 
- **Result**
+ ## Result:
  
   This experiment is executed successfully
